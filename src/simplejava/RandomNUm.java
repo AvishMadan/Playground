@@ -2,6 +2,10 @@ package simplejava;
 
 import java.util.Random;
 
+/**
+@author Avish Madan
+
+**/
 public class RandomNUm {
 
 	
