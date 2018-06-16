@@ -6,6 +6,7 @@ import java.util.Random;
 @author Avish Madan
 @category POJO
 @since 1.0
+
 **/
 
 public class RandomNUm {
