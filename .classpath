@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="data/Selenium.java" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/cssparser-0.9.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/htmlunit-core-js-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/htmlunit-driver-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/jetty-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/jetty-http-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/jetty-io-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/jetty-util-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/neko-htmlunit-2.27.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/phantomjsdriver-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/websocket-api-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/websocket-client-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/websocket-common-9.4.5.v20170502.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/client-combined-3.5.3-nodeps-sources.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/selenium-java-3.5.3.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Downloads/client-combined-3.5.3-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Desktop/poi-bin-3.16-20170419/poi-3.16/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Desktop/poi-bin-3.16-20170419/poi-3.16/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Desktop/poi-bin-3.16-20170419/poi-3.16/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Desktop/poi-bin-3.16-20170419/poi-3.16/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Desktop/poi-bin-3.16-20170419/poi-3.16/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Desktop/poi-bin-3.16-20170419/poi-3.16/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Desktop/poi-bin-3.16-20170419/poi-3.16/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Desktop/poi-bin-3.16-20170419/poi-3.16/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Desktop/poi-bin-3.16-20170419/poi-3.16/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Desktop/poi-bin-3.16-20170419/poi-3.16/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Desktop/poi-bin-3.16-20170419/poi-3.16/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Desktop/poi-bin-3.16-20170419/poi-3.16/ooxml-lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Avish Madan/Desktop/poi-bin-3.16-20170419/poi-3.16/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
